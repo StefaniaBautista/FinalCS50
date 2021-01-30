@@ -1,4 +1,4 @@
-html, body, head {
+html {
   background-color: #7de6aa99;
   background-position: right center;
   background-repeat: repeat-x;
@@ -46,13 +46,11 @@ p {
   border: none;
   color: white;
   padding: 15px 32px;
-  justify-content: center;  
-  align-items: center;  
-  text-decoration: none;
   display: inline-block;
   position: absolute;
   font-size: 16px;
 }
 .navbar { 
   text-align: center;
+  align-items: center;
 }
