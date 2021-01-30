@@ -1,8 +1,7 @@
 head, body, html {
   height: 100%;
-  background: rgb(75,129,66);
-  background: linear-gradient(141deg, rgba(75,129,66,1) 0%, rgba(83,196,173,1) 86%);
-  background-repeat: repeat-x;
+  background: rgb(126,233,108);
+  background: linear-gradient(141deg, rgba(126,233,108,1) 0%, rgba(84,237,206,0.8146551724137931) 86%);
 }
 h1 {
   color: black;
