@@ -1,9 +1,5 @@
-head {
-  background-repeat: repeat-x;
-  background: rgb(75,129,66);
-  background: linear-gradient(141deg, rgba(75,129,66,1) 0%, rgba(83,196,173,1) 86%);
-}
-body {
+head, body, html {
+  height: 100%;
   background: rgb(75,129,66);
   background: linear-gradient(141deg, rgba(75,129,66,1) 0%, rgba(83,196,173,1) 86%);
   background-repeat: repeat-x;
