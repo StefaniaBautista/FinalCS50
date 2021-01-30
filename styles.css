@@ -1,6 +1,6 @@
-head, body, html {
+body, html {
   height: 100%;
-  background: rgb(126,233,108);
+  background-color: #7de6aaBF;
   background: linear-gradient(141deg, rgba(126,233,108,1) 0%, rgba(84,237,206,0.8146551724137931) 86%);
   background-position: center;
   background-repeat: no-repeat;
