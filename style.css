@@ -1,0 +1,24 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 250%;
+  text-align: center;
+}
+h3 {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 190%;
+}
+h4 {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 150%;
+}
+p {
+  color: darkgrey;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 110%;
+}
