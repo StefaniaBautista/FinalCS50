@@ -1,9 +1,12 @@
-html {
-  background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vidasilvestre.org.ar%2F%3F10840%2FLey-de-humedales-es-tiempo-de-actuar&psig=AOvVaw37nXOBDd6xBM91hLhf7CMr&ust=1612111019690000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj00YDiwu4CFQAAAAAdAAAAABAL) no-repeat center fixed;
-  background-size: cover;
+head {
+  background-repeat: repeat-x;
+  background: rgb(75,129,66);
+  background: linear-gradient(141deg, rgba(75,129,66,1) 0%, rgba(83,196,173,1) 86%);
 }
 body {
-  background-color: powderblue;
+  background: rgb(75,129,66);
+  background: linear-gradient(141deg, rgba(75,129,66,1) 0%, rgba(83,196,173,1) 86%);
+  background-repeat: repeat-x;
 }
 h1 {
   color: black;
